@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MetroPicker</string>
+    <string name="select_button_text">Select a Station</string>
+    <string name="no_station_selected_msg">No station selected</string>
+    <string name="no_activity_msg">There isn\'t appropriate Activity</string>
+</resources>
